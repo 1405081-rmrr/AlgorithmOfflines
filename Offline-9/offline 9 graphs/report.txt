@@ -1,0 +1,21 @@
+Report
+Random: 
+	Best: 934
+	Avg: 938.4
+	Worst: 942
+Deg: 936
+
+Report
+Random: 
+	Best: 936
+	Avg: 937.6
+	Worst: 940
+Deg: 936
+
+Report
+Random: 
+	Best: 936
+	Avg: 937.6
+	Worst: 940
+Deg: 936
+
